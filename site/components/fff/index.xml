@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>169b</objectGroupId>
+	<objectId>169bff6a-8dcc-0aa1-8f12-96ff56de63a9</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>fff</folder-name>
+	<internal-name>fff</internal-name>
+	<title_t>fff</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body_html>&lt;p&gt;fff&lt;/p&gt;</body_html>
+	<createdDate>2020-04-03T17:28:46.271Z</createdDate>
+	<createdDate_dt>2020-04-03T17:28:46.271Z</createdDate_dt>
+	<lastModifiedDate>2020-04-03T17:28:46.271Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T17:28:46.271Z</lastModifiedDate_dt>
+</page>
