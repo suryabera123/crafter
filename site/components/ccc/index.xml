@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>ace4</objectGroupId>
+	<objectId>ace4745e-3527-9c78-4bfa-76297dc4e744</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>ccc</folder-name>
+	<internal-name>ccc</internal-name>
+	<title_t>ccc</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body_html>&lt;p&gt;ccc&lt;/p&gt;</body_html>
+	<createdDate>2020-04-03T20:22:45.985Z</createdDate>
+	<createdDate_dt>2020-04-03T20:22:45.985Z</createdDate_dt>
+	<lastModifiedDate>2020-04-03T20:22:45.985Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T20:22:45.985Z</lastModifiedDate_dt>
+</page>
