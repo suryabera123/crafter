@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>7157</objectGroupId>
+	<objectId>71573078-6497-dc7d-fddd-fde9e9852aff</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>eee</folder-name>
+	<internal-name>eee</internal-name>
+	<title_t>eee</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body_html>&lt;p&gt;eee&lt;/p&gt;</body_html>
+	<createdDate>2020-04-03T17:10:13.992Z</createdDate>
+	<createdDate_dt>2020-04-03T17:10:13.992Z</createdDate_dt>
+	<lastModifiedDate>2020-04-03T17:10:13.992Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T17:10:13.992Z</lastModifiedDate_dt>
+</page>
