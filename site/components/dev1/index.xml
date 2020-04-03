@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>5b76</objectGroupId>
+	<objectId>5b766f5f-13c0-ac23-2de9-39c12e238081</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>dev1</folder-name>
+	<internal-name>dev1</internal-name>
+	<title_t>dev1</title_t>
+	<placeInNav>false</placeInNav>
+	<orderDefault_f>-1</orderDefault_f>
+	<disabled>false</disabled>
+	<body_html>&lt;p&gt;dev1&lt;/p&gt;</body_html>
+	<createdDate>2020-04-03T21:00:41.396Z</createdDate>
+	<createdDate_dt>2020-04-03T21:00:41.396Z</createdDate_dt>
+	<lastModifiedDate>2020-04-03T21:00:41.396Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-04-03T21:00:41.396Z</lastModifiedDate_dt>
+</page>
